@@ -7,5 +7,5 @@ Also I lerned a lot about using git and gitHub.
 ---
 
 I use my knowladge to create the webpage with links to recipes i create in html.
-The mochi and french toast recipe and photos is from [allrecipes]([url](https://www.allrecipes.com/))
+The mochi and french toast recipe and photos is from [allrecipes](https://www.allrecipes.com/))
 
