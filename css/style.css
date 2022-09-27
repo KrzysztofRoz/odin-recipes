@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    font-family: "Brush Script MT", cursive;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+/** img wrapping gallery in box */
+div.item{
+    vertical-align: top;
+    display:inline-block;
+    text-align: center;
+    width: 320px;
+}
+img{
+    width: 300px;
+    height: auto;
+}
+.caption{
+    display: block;
+}
+
+
+/** list centering tool**/
+div.container{
+    text-align: center;
+}
+
+ul.myUL{
+    display: inline-block;
+    text-align: left;
+}
+ol.myOL{
+text-align: center;
+list-style-position: inside;
+}
